@@ -1,4 +1,4 @@
 # Combat-drone
-Savaşan insansız hava aracı için hedef takip sistemi
+Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi
 
 Proje halen devam etmektedir.
