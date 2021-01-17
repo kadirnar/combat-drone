@@ -2,7 +2,7 @@ import cv2
 import os
 
 vidcap = cv2.VideoCapture('video/uav.mp4')
-path_to_save = 'proje'
+path_to_save = 'dataset'
 
 
 
