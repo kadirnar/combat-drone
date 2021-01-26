@@ -1,6 +1,7 @@
 # Combat-drone
 Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi
 
+<a href="" target="_blank"><img height="350" src="https://mir-s3-cdn-cf.behance.net/projects/404/66ffe9103472481.Y3JvcCw1NzU0LDQ1MDEsMzg4OCww.jpg"></a>
 
 ### 1. Veri Seti Hazırlama
 
