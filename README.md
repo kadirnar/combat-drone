@@ -11,47 +11,46 @@ Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplac
 * Video üzerindeki kare görüntüleri indirmek için: "split-videos-to-frames.py" dosyasını düzeneleyip çalıştırın.
 * Veri setindeki resimleri belli bir boyuta indirmek için: image_resize.py dosyasını düzeneleyip çalıştırın.
 
+Veri Seti: 10.02.2021 tarihinde yayınlanacaktır.
+
 ### 2. Veri Setini Düzenleme
 
-- Yakında eklenecektir.
-
+Veri Setini Düzenleme: 05.02.2021 tarihinde yayınlanacaktır.
 
 ### 3. Veri Artırma Yöntemleri
 
-- Yakında eklenecektir.
+Veri Artırma Yöntemleri 15.02.2021 tarihinde yayınlanacaktır.
 
 ### 4. Veri Setinin Boyutunu İndirme
-- Yakında eklenecektir.
 
-
+Veri Setinin Boyutunu İndirme: 28.02.2021 tarihinde yayınlanacaktır.
 
 ### 5. Yolov4-tiny Modeli Parametleri
 
-- Yakında eklenecektir.
+Yolov4-tiny Modeli Parametleri: 01.02.2021 tarihinde yayınlanacaktır.
 
 
 ### 6. Hareketli Nesne Tespit Algoritmaları
 
-- Yakında eklenecektir.
+Hareketli Nesne Tespit Algoritmaları: 15.03.2021 tarihinde yayınlanacaktır.
 
 
 ### 7. Yolov4-tiny ile Eğitim
 
-- Yakında eklenecektir.
+Yolov4-tiny ile Eğitim: 20.02.2021 tarihinde yayınlanacaktır.
 
 
-### 8. Yolov4-tiny + Deep Sort + TensorRT
+### 8. Yolov4-tiny + Deep Sort
+
+ Yolov4-tiny + Deep Sort: 28.02.2021 tarihinde yayınlanacaktır.
+
+### 9. Fps Düşürme Algoritmaları
 
 
-- Yakında eklenecektir.
-
-### 9. Jetson Nano Donanımı Üzerindeki Değerleri
-
-- Yakında eklenecektir.
-
+Fps Düşürme Algoritmaları: 02.03.2021 tarihinde yayınlanacaktır.
 
 ### 10. Sonuç ve Değerlendirme
 
-- Yakında eklenecektir.
+Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 
-##### Proje 10.03.2021 tarihinde tamanlanacaktır.
+##### Proje 13.03.2021 tarihinde tamanlanacaktır.
