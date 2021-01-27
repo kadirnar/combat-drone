@@ -11,6 +11,8 @@ Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplac
 * Video üzerindeki kare görüntüleri indirmek için: "split-videos-to-frames.py" dosyasını düzeneleyip çalıştırın.
 * Veri setindeki resimleri belli bir boyuta indirmek için: image_resize.py dosyasını düzeneleyip çalıştırın.
 
+Videos klasörün içinde "MHAVK VİDEO.doc" adlı dosyasında 35 adet iha videoları mevcuttur. Bu videolardan veri seti elde etmeye çalışacağız. Yukarıda bahsettiğim adımları tek tek yapacağız.
+
 Veri Seti: 10.02.2021 tarihinde yayınlanacaktır.
 
 ### 2. Veri Setini Düzenleme
