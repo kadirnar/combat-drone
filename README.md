@@ -12,10 +12,10 @@ Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplac
 * Veri setindeki resimleri belli bir boyuta indirmek için: image_resize.py dosyasını düzeneleyip çalıştırın.
 
 Veri setimiz toplam 30 video üzerinden çekilmiş 15.000 görüntü mevcuttur. Veri setimizin boyutu, 3.60 GB'dır.
+
 ### 2. Veri Setini Düzenleme
 
-Veri setinde
-
+Veri setinzin ilk 1000 resmi paylaşılmıştır. 307 MB'dan 20 MB kadar düşürülmüştür. image_resize.py python dosyasını kullanarak sizde yapabilirsiniz. 
 
 Veri Setini Düzenleme: 05.02.2021 tarihinde yayınlanacaktır.
 
