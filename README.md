@@ -5,19 +5,28 @@ Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi
 
 ### 1. Veri Seti Hazırlama
 
-Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplacağız. 
+Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplayacağız. 
 
 * Youtube videosu indirmek için: https://tr.savefrom.net/1-how-to-download-youtube-video.html
-* Video üzerindeki kare görüntüleri indirmek için: "split-videos-to-frames.py" dosyasını düzeneleyip çalıştırın.
-* Veri setindeki resimleri belli bir boyuta indirmek için: image_resize.py dosyasını düzeneleyip çalıştırın.
+* Video üzerindeki kare görüntüleri indirmek için: "split-videos-to-frames.py" dosyasını düzeneleyip çalıştıracağız.
+* Veri setindeki resimleri belli bir boyuta indirmek için: image_resize.py dosyasını düzeneleyip çalıştıracağız.
 
-Veri setimiz toplam 30 video üzerinden çekilmiş 15.000 görüntü mevcuttur. Veri setimizin boyutu, 3.60 GB'dır.
+Yüksek doğruluk oranı elde etmek için, yüksek kaliteli resimler bulmalıyız. Bunun için HD kalitede çekilmiş İnsansız Hava Araçlar videolarını bulmalıyız. Bunu daha iyi anlamak için bir akademik makaleyi okumanızı tavsiye ederim.
+
+[Understanding How Image Quality Affects Deep
+Neural Networks[1]](https://arxiv.org/pdf/1604.04004.pdf)
+
+Veri seti için oluşturmak için kullandığımız videolar:
+
+1.
+2.
+3.
+4.
+5.
 
 ### 2. Veri Setini Düzenleme
 
-Veri setinzin ilk 1000 resmi paylaşılmıştır. 307 MB'dan 20 MB kadar düşürülmüştür. image_resize.py python dosyasını kullanarak sizde yapabilirsiniz. 
-
-Veri Setini Düzenleme: 05.02.2021 tarihinde yayınlanacaktır.
+Veri Setini Düzenleme 15.02.2021 tarihinde yayınlanacaktır.
 
 ### 3. Veri Artırma Yöntemleri
 
@@ -56,3 +65,7 @@ Fps Düşürme Algoritmaları: 02.03.2021 tarihinde yayınlanacaktır.
 Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 
 ##### Proje 13.03.2021 tarihinde tamanlanacaktır.
+
+Kaynaklar:
+
+[1] : https://arxiv.org/pdf/1604.04004.pdf
