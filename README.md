@@ -35,7 +35,8 @@ Veri seti için oluşturmak için kullandığımız videolar:<br/>
 15. https://www.youtube.com/watch?v=6ghvve-Q-Ko&list=UUUbR76-7gPBX7MR5nTEDbCA&index=68 [1080p]
 16. https://www.youtube.com/watch?v=C-m-rqg0edg&list=UUUbR76-7gPBX7MR5nTEDbCA&index=71
 17. https://www.youtube.com/watch?v=kJEUxpVgHws&list=UUUbR76-7gPBX7MR5nTEDbCA&index=74
-18. 
+
+İlk denemeler de sadece 4 video üzerinde resimler indirip etiketleme yapacağım. 
 
 ### 2. Veri Setini Düzenleme
 
