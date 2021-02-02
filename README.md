@@ -26,8 +26,16 @@ Veri seti için oluşturmak için kullandığımız videolar:<br/>
 6. https://www.youtube.com/watch?v=Tmb_-CaF86M&list=UUUbR76-7gPBX7MR5nTEDbCA&index=12 [1440p]
 7. https://www.youtube.com/watch?v=5K7h9TASOHw&list=UUUbR76-7gPBX7MR5nTEDbCA&index=20 [720p]
 8. https://www.youtube.com/watch?v=6-5IJg6E93o&list=UUUbR76-7gPBX7MR5nTEDbCA&index=25 [720p]
-9. 
-10.
+9. https://www.youtube.com/watch?v=zmIH-4zc70k&list=UUUbR76-7gPBX7MR5nTEDbCA&index=28 [720p]
+10. https://www.youtube.com/watch?v=a8YrKYS9-zU&list=UUUbR76-7gPBX7MR5nTEDbCA&index=37 [1080p]
+11. https://www.youtube.com/watch?v=a3gTVn9ItvM&list=UUUbR76-7gPBX7MR5nTEDbCA&index=38 [720p]
+12. https://www.youtube.com/watch?v=VMkRVDmvUA0&list=UUUbR76-7gPBX7MR5nTEDbCA&index=39 [1080p]
+13. https://www.youtube.com/watch?v=DDn4DialMmo&list=UUUbR76-7gPBX7MR5nTEDbCA&index=43 [1080p]
+14. https://www.youtube.com/watch?v=MMD6m3Dla6E&list=UUUbR76-7gPBX7MR5nTEDbCA&index=46 [720p]
+15. https://www.youtube.com/watch?v=6ghvve-Q-Ko&list=UUUbR76-7gPBX7MR5nTEDbCA&index=68 [1080p]
+16. https://www.youtube.com/watch?v=C-m-rqg0edg&list=UUUbR76-7gPBX7MR5nTEDbCA&index=71
+17. https://www.youtube.com/watch?v=kJEUxpVgHws&list=UUUbR76-7gPBX7MR5nTEDbCA&index=74
+18. 
 
 ### 2. Veri Setini Düzenleme
 
