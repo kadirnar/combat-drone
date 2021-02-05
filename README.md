@@ -36,11 +36,12 @@ Veri seti için oluşturmak için kullandığımız videolar:<br/>
 16. https://www.youtube.com/watch?v=C-m-rqg0edg&list=UUUbR76-7gPBX7MR5nTEDbCA&index=71
 17. https://www.youtube.com/watch?v=kJEUxpVgHws&list=UUUbR76-7gPBX7MR5nTEDbCA&index=74
 
-İlk denemeler de sadece 4 video üzerinde resimler indirip etiketleme yapacağım. Veri etiketleme için makesense.ai sitesini kullanacağız.
+İlk denemeler de sadece 4 video üzerinde resimler indirip etiketleme yapacağım. Veri etiketleme için makesense.ai sitesini kullanacağız. Veri setlerinin boyutu fazla olduğundan dolayı github da paylaşamıyorum. 
 
 #### Örnek Veri Etiketleme:
 
 <img src="/images/makesense.png"/>
+
 
 ### 2. Veri Setini Düzenleme
 
