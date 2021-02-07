@@ -50,6 +50,11 @@ Hareketli Nesne Tespit Algoritmaları: 15.03.2021 tarihinde yayınlanacaktır.
 
 ### 7. Yolov4-tiny ile Eğitim
 
+1000 etiketli veri setini yolov4-tiny modelindeki test sonuçları:
+
+<img src="/videos/uav.mp4"/>
+<img src="/images/chart.png"/>
+
 Yolov4-tiny ile Eğitim: 20.02.2021 tarihinde yayınlanacaktır.
 
 
