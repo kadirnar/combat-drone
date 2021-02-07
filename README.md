@@ -24,7 +24,7 @@ Veri seti için oluşturmak için kullandığımız video kanalı:<br/>
 
 #### Örnek Veri Etiketleme:
 
-<img src="/images/makesense.png"/>
+<img height="350" src="/images/makesense.png"/>
 
 ### 2. Veri Setini Düzenleme
 
@@ -53,7 +53,8 @@ Hareketli Nesne Tespit Algoritmaları: 15.03.2021 tarihinde yayınlanacaktır.
 1000 etiketli veri setini yolov4-tiny modelindeki test sonuçları:
 
 <img src="/videos/uav.gif"/>
-<img src="/images/chart.png"/>
+<img height="600" src="/images/chart.png"/>
+Eğitim sonuçlarının yüksek çıkmasının sebebi benzer resimlerin çok olmasından kaynaklı. Farklı bir İHA modeli gördüğünde tanımakta zorlanacaktır. Bu yüzden farklı İHA videolarından resim çekip modelimizi güçlendireceğiz.
 
 Yolov4-tiny ile Eğitim: 20.02.2021 tarihinde yayınlanacaktır.
 
