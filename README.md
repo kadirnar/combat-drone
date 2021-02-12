@@ -14,8 +14,7 @@ Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplay
 Yüksek doğruluk oranı elde etmek için, yüksek kaliteli resimler bulmalıyız. Bunun için HD kalitede çekilmiş İnsansız Hava Araçlar videolarını bulmalıyız. Bunu daha iyi anlamak için bir akademik makaleyi okumanızı tavsiye ederim.
 
 - [Understanding How Image Quality Affects Deep
-Neural Networks[1]](https://arxiv.org/pdf/1604.04004.pdf) [Understanding How Image Quality Affects Deep]
-
+Neural Networks[1]](https://arxiv.org/pdf/1604.04004.pdf)<br/>
 Veri seti için oluşturmak için kullandığımız video kanalı:<br/>
 
 - https://www.youtube.com/channel/UCUbR76-7gPBX7MR5nTEDbCA
