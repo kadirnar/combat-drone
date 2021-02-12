@@ -18,6 +18,7 @@ Neural Networks[1]](https://arxiv.org/pdf/1604.04004.pdf)<br/>
 Veri seti için oluşturmak için kullandığımız video kanalı:<br/>
 
 - https://www.youtube.com/channel/UCUbR76-7gPBX7MR5nTEDbCA
+<img height="250" src="/images/mhavkfpv.png"/>
 
 İlk denemeler de sadece 4 video üzerinde resimler indirip etiketleme yapacağım. Veri etiketleme için makesense.ai sitesini kullanacağız. Veri setlerinin boyutu fazla olduğundan dolayı örnek olması açısından 50 etiketli resim paylaşacağım.
 
