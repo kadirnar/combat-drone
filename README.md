@@ -7,8 +7,8 @@ Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi
 
 Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplayacağız. 
 
-* Youtube videosu indirmek için:`🧙‍♂️ https://tr.savefrom.net/1-how-to-download-youtube-video.html`
-* Video üzerindeki kare görüntüleri indirmek için: "split-videos-to-frames.py" dosyasını düzeneleyip çalıştıracağız.
+* Youtube videosu indirmek için:`https://tr.savefrom.net/1-how-to-download-youtube-video.html`
+* Video üzerindeki kare görüntüleri indirmek için:`split-videos-to-frames.py` "split-videos-to-frames.py" dosyasını düzeneleyip çalıştıracağız.
 * Veri setindeki resimleri belli bir boyuta indirmek için: image_resize.py dosyasını düzeneleyip çalıştıracağız.<br/>
 
 Yüksek doğruluk oranı elde etmek için, yüksek kaliteli resimler bulmalıyız. Bunun için HD kalitede çekilmiş İnsansız Hava Araçlar videolarını bulmalıyız. Bunu daha iyi anlamak için bir akademik makaleyi okumanızı tavsiye ederim.
