@@ -26,25 +26,7 @@ Toplam 20 video üzerinden esimler indirip etiketleme yapacağım. Veri etiketle
 
 <img height="350" src="/images/makesense.png"/>
 
-### 2. Veri Artırma Yöntemleri
-
-Veri Artırma Yöntemleri 15.02.2021 tarihinde yayınlanacaktır.
-
-### 3. Veri Setinin Boyutunu İndirme
-
-Veri Setinin Boyutunu İndirme: 28.02.2021 tarihinde yayınlanacaktır.
-
-### 4. Yolov4-tiny Modeli Parametleri
-
-Yolov4-tiny Modeli Parametleri: 01.02.2021 tarihinde yayınlanacaktır.
-
-
-### 5. Hareketli Nesne Tespit Algoritmaları
-
-Hareketli Nesne Tespit Algoritmaları: 15.03.2021 tarihinde yayınlanacaktır.
-
-
-### 6. Yolov4-tiny ile Eğitim
+### Yolov4-tiny ile Eğitim
 
 1000 etiketli veri setini yolov4-tiny modelindeki test sonuçları:
 
@@ -54,21 +36,11 @@ Eğitim sonuçlarının yüksek çıkmasının sebebi benzer resimlerin çok olm
 
 Yolov4-tiny ile Eğitim: 20.02.2021 tarihinde yayınlanacaktır.
 
-
-### 7. Yolov4-tiny + Deep Sort
-
- Yolov4-tiny + Deep Sort: 28.02.2021 tarihinde yayınlanacaktır.
-
-### 8. Fps Düşürme Algoritmaları
-
-
-Fps Düşürme Algoritmaları: 02.03.2021 tarihinde yayınlanacaktır.
-
-### 9. Sonuç ve Değerlendirme
+### Sonuç ve Değerlendirme
 
 Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 
-##### Proje 13.03.2021 tarihinde tamanlanacaktır.
+##### Proje halen devam etmektedir.
 
 Kaynaklar:
 
