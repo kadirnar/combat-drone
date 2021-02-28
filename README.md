@@ -18,20 +18,20 @@ Neural Networks[1]](https://arxiv.org/pdf/1604.04004.pdf)<br/>
 Veri seti için oluşturmak için kullandığımız video kanalı:<br/>
 
 - https://www.youtube.com/channel/UCUbR76-7gPBX7MR5nTEDbCA
-<img height="250" src="/images/mhavkfpv.png"/>
+<img height="150" src="/images/mhavkfpv.png"/>
 
 Toplam 20 video üzerinden esimler indirip etiketleme yapacağım. Veri etiketleme için makesense.ai sitesini kullanacağız. Veri setlerinin boyutu fazla olduğundan dolayı örnek olması açısından 50 etiketli resim paylaşacağım.
 
 #### Örnek Veri Etiketleme:
 
-<img height="350" src="/images/makesense.png"/>
+<img height="200" src="/images/makesense.png"/>
 
 ### Yolov4-tiny ile Eğitim
 
 1000 etiketli veri setini yolov4-tiny modelindeki test sonuçları:
 
 <img src="/videos/uav.gif"/>
-<img height="600" src="/images/chart.png"/>
+<img height="500" src="/images/chart.png"/>
 Eğitim sonuçlarının yüksek çıkmasının sebebi benzer resimlerin çok olmasından kaynaklı. Farklı bir İHA modeli gördüğünde tanımakta zorlanacaktır. Bu yüzden farklı İHA videolarından resim çekip modelimizi güçlendireceğiz.
 
 Yolov4-tiny ile Eğitim: 20.02.2021 tarihinde yayınlanacaktır.
