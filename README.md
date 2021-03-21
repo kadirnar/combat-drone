@@ -1,8 +1,7 @@
 # Combat-drone
 Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi
 
-<a href="" target="_blank"><img height="350" src="https://www.baykarsavunma.com/upload/sayfa/savasaniha.jpg"></a>
-<img height="350" src="/images/combot-drone"/>
+<img height="350" src="/images/combot-drone.jpg"/>
 
 ### 1. Veri Seti Hazırlama
 
