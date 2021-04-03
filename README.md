@@ -42,10 +42,10 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 
 ##### Proje halen devam etmektedir.
 
-### TODO
-* [x] Yakında eklenecek.
-* [ ] Yakında eklenecek.
-* [ ] Yakında eklenecek.
+### Yapılacaklar Listesi:
+* [x] Yolov4, Yolov4x-Mish ve Yolov4-Csp ile Eğitim ve Test.
+* [ ] Opencv Kullanarak Yolov Modellerini Test.
+* [ ] .
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
