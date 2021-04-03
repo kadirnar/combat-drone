@@ -50,7 +50,7 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
-* [ ] Mish activation
+* [ ] Yakında eklenecek.
 * [ ] yolov4 tflite version
 * [ ] yolov4 in8 tflite version for mobile
 
