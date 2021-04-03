@@ -48,7 +48,7 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
-* [ ] ciou
+* [ ] Yakında eklenecek.
 * [ ] Mosaic data augmentation
 * [ ] Mish activation
 * [ ] yolov4 tflite version
