@@ -44,9 +44,9 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 
 ### Yapılacaklar Listesi:
 * [x] Yolov4, Yolov4x-Mish ve Yolov4-Csp ile Eğitim ve Test.
-* [ ] Opencv Kullanarak Yolov Modellerini Test.
+* [ ] Opencv Kullanarak Yolo Modellerini Test.
 * [ ] Test ettiği resimlerden kordinat ve nesne bilgisini .txt dosyasına yazdırma.
-* [ ] Yakında eklenecek.
+* [ ] Yolov4, Yolov4x-Mish ve Yolov4-Csp modellerinin Karşılaştırılması.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
