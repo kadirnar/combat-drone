@@ -45,7 +45,7 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 ### TODO
 * [x] Yakında eklenecek.
 * [ ] Yakında eklenecek.
-* [ ] YOLOv4 tflite on ios
+* [ ] Yakında eklenecek.
 * [ ] Training code
 * [ ] Update scale xy
 * [ ] ciou
