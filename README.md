@@ -46,7 +46,7 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 * [x] Yakında eklenecek.
 * [ ] Yakında eklenecek.
 * [ ] Yakında eklenecek.
-* [ ] Training code
+* [ ] Yakında eklenecek.
 * [ ] Update scale xy
 * [ ] ciou
 * [ ] Mosaic data augmentation
