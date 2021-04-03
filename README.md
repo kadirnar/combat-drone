@@ -42,6 +42,19 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 
 ##### Proje halen devam etmektedir.
 
+### TODO
+* [x] Yakında eklenecek.
+* [ ] YOLOv4 tflite on android
+* [ ] YOLOv4 tflite on ios
+* [ ] Training code
+* [ ] Update scale xy
+* [ ] ciou
+* [ ] Mosaic data augmentation
+* [ ] Mish activation
+* [ ] yolov4 tflite version
+* [ ] yolov4 in8 tflite version for mobile
+
+
 Kaynaklar:
 
 [1] : https://arxiv.org/pdf/1604.04004.pdf
