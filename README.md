@@ -49,9 +49,6 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 * [ ] Opencv Kullanarak Yolo Modellerini Test.
 * [ ] Yolo modelini TF2-YOLO ve Yolov4-TensorRT modeline çevirme.
 * [ ] Projeyi Script Haline Getirme.
-* [ ] Yakında eklenecek.
-* [ ] Yakında eklenecek.
-* [ ] Yakında eklenecek.
 
 
 Kaynaklar:
