@@ -43,8 +43,8 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 ##### Proje halen devam etmektedir.
 
 ### Yapılacaklar Listesi:
-* [ ] Yolov4, Yolov4x-Mish ve Yolov4-Csp ile Eğitim ve Test.
-* [ ] Yolov4, Yolov4x-Mish ve Yolov4-Csp modellerinin Karşılaştırılması.
+* [ ] Yolov4, Yolov4x-Mish, Yolov4-Csp ve Yolov5-Pytorch ile Eğitim ve Test.
+* [ ] Yolov4, Yolov4x-Mish, Yolov4-Csp ve Yolov5-Pytorch  modellerinin Karşılaştırılması.
 * [ ] Test ettiği resimlerden kordinat ve nesne bilgisini .txt dosyasına yazdırma.
 * [ ] Opencv Kullanarak Yolo Modellerini Test.
 * [ ] Yolo modelini TF2-YOLO ve Yolov4-TensorRT modeline çevirme.
