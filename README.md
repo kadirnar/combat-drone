@@ -7,7 +7,7 @@ Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi
 
 Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplayacağız. Açık kaynak İnsansız Sabit Kanat Arac veri seti bulmak zor olduğundan dolayı kendii veri setimizi toplayıp bunu halka açık halinden paylaşmayı hedeflemekteyiz. Bu hedefi başka repoda gerçekleştirmekteyim. 
 
-- - [Açık Kaynak İnsansız Hava Araç Veri Seti[1]](https://github.com/kadirnar/uav-datasets)<br/>
+- [Açık Kaynak İnsansız Hava Araç Veri Seti[1]](https://github.com/kadirnar/uav-datasets)<br/>
 
 * Youtube videosu indirmek için:`https://tr.savefrom.net/1-how-to-download-youtube-video.html`
 * Video üzerindeki kare görüntüleri indirmek için:`split-videos-to-frames.py` "split-videos-to-frames.py" dosyasını düzeneleyip çalıştıracağız.
