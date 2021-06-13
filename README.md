@@ -5,7 +5,9 @@ Savaşan İnsansız Hava Aracı için Hedef Takip Sistemi
 
 ### 1. Veri Seti Hazırlama
 
-Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplayacağız. Açık kaynak İnsansız Sabit Kanat Arac veri seti bulmak zor olduğundan dolayı kendii veri setimizi toplayıp bunu halka açık halinden paylaşmayı hedeflemekteyiz.
+Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplayacağız. Açık kaynak İnsansız Sabit Kanat Arac veri seti bulmak zor olduğundan dolayı kendii veri setimizi toplayıp bunu halka açık halinden paylaşmayı hedeflemekteyiz. Bu hedefi başka repoda gerçekleştirmekteyim. 
+
+- - [Açık Kaynak İnsansız Hava Araç Veri Seti[1]](https://github.com/kadirnar/uav-datasets)<br/>
 
 * Youtube videosu indirmek için:`https://tr.savefrom.net/1-how-to-download-youtube-video.html`
 * Video üzerindeki kare görüntüleri indirmek için:`split-videos-to-frames.py` "split-videos-to-frames.py" dosyasını düzeneleyip çalıştıracağız.
@@ -14,7 +16,7 @@ Hazır veri setleri yetersiz olduğundan youtube videolarından veri seti toplay
 Yüksek doğruluk oranı elde etmek için, yüksek kaliteli resimler bulmalıyız. Bunun için HD kalitede çekilmiş İnsansız Hava Araçlar videolarını bulmalıyız. Bunu daha iyi anlamak için bir akademik makaleyi okumanızı tavsiye ederim.
 
 - [Understanding How Image Quality Affects Deep
-Neural Networks[1]](https://arxiv.org/pdf/1604.04004.pdf)<br/>
+Neural Networks[2]](https://arxiv.org/pdf/1604.04004.pdf)<br/>
 Veri seti için oluşturmak için kullandığımız video kanalı:<br/>
 
 - https://www.youtube.com/channel/UCUbR76-7gPBX7MR5nTEDbCA
@@ -53,7 +55,8 @@ Sonuç ve Değerlendirme: 07.03.2021 tarihinde yayınlanacaktır.
 
 Kaynaklar:
 
-[1] : https://arxiv.org/pdf/1604.04004.pdf
+[1] : https://github.com/kadirnar/uav-datasets
+[2] : https://arxiv.org/pdf/1604.04004.pdf
 
 ## Destek
 
