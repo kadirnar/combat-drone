@@ -58,9 +58,6 @@ Kaynaklar:
 [1] : https://github.com/kadirnar/uav-datasets
 [2] : https://arxiv.org/pdf/1604.04004.pdf
 
-## Destek
-
-Katkıda bulunmayı düşünmeniz gerçekten çok güzel bir haber, bunun için [DESTEK](/CONTRIBUTING.md) bağlantısına göz atabilirsiniz.
 
 ## Soru & Cevap
 
@@ -68,7 +65,7 @@ Dokümanlar, kaynak kodlar veya her hangi bir konuda ki sorularınızı **issues
 
 **Nasıl Soru Sorulur?**
 
-Öncelikle [issues](https://github.com/mesutpiskin/opencv-tutorial/issues) bölümüne gidiniz. Sayfanın sağında yer alan **new issues** butonuna tıklayın. Açılan ilgili bölüme sorunuzu veya talebinizi açıklayıcı bir şekilde yazarak **Submit new issues** butonu aracılığıyla kaydedin.
+Öncelikle [issues](github.com/kadirnar/combat-drone/issues) bölümüne gidiniz. Sayfanın sağında yer alan **new issues** butonuna tıklayın. Açılan ilgili bölüme sorunuzu veya talebinizi açıklayıcı bir şekilde yazarak **Submit new issues** butonu aracılığıyla kaydedin.
 
 ## Lisans
 
